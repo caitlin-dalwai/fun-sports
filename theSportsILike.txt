@@ -1,5 +1,1 @@
-"I am pratcing in this file"
-
-Sports:
-    1) Volley Ball
-    2) Netball
+"Sports:    1) Volley Ball    2) Netball"
